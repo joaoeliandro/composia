@@ -10,15 +10,15 @@ app.use(express.json());
 
 app.get('/', async (request, response) => {
 
-  const { data } = await api.get("/");
+  //const { data } = await api.get("/"); 
 
-  return response.json(data);
+  return response.json({oi:123});
 });
 
-app.post('/test', async (request, response) => {
-  const body = request.body;  
-
-  const { data } = await api.post('/test', body);
+app.get('/estrofe/:input?', async (request, response) => {
+  const {input} = request.query;  
+  console.log(input)
+  const { data } = await api.get(`/estrofe?input=${input}`); 
 
   return response.json(data);
 });
