@@ -67,7 +67,7 @@
 
 <h3 align="center">Serviço de inteligencia artificial do ComposIA</h3>
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1o_9oDsJnDwMpD-LJvYs4_01SGvnDfOmj" alt="composia-demo" />
+    <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1604282756/gif_demo_rede_neural_composia_-_luiz_gonzaga_vekoan.gif" alt="composia-demo" />
 </p>
 
 ---
