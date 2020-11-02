@@ -72,9 +72,9 @@
 
 ---
 
-Veja também uma letra organizada por nós e feita inteiramente com a Inteligencia Artificial simulando Luiz Gonzaga na composição, aqui:
+Veja também uma letra feita com a colaboração da Inteligencia Artificial simulando Luiz Gonzaga na composição, aqui:
 
-<h3 align="center">Letra para uma composição gerada pelo ComposIA</h3>
+<h3 align="center">Letra para uma composição com o ComposIA</h3>
 <p align="center">
     <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1604281378/WhatsApp_Image_2020-11-01_at_22.37.47_h7xl60.jpg" alt="composia-lyrics-demo" />
 </p>
